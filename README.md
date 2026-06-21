@@ -1,5 +1,5 @@
 <p align="center"><kbd> ME AND <a href="https://github.com/MoriouChoRadio" title= peeboy >MUTT</a> = TOILETDUO </kbd> </p><br>
- <p align="center"><img src="https://api.visitorbadge.io/api/visitors?path=um8rella&label=+++ITERATION+IN+CYCLE+++&labelColor=a31c0d&countColor=000000&style=square" title="DIDN'T THINK I'D PUT A TITLE HERE, DID YOU?" /></p>
+ <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT&label=%E2%A0%80%E2%A0%80%E0%BD%80%E2%A0%80%E2%A0%80&labelColor=%23a020f0&countColor=%23000000&style=flat-square&labelStyle=upper" /></a></p><br>
 <p align="center"> <img width="85%" src="https://github.com/user-attachments/assets/4c14edcf-3f1a-4892-a0a1-e0e350925d7a" title="this is my dada, hi~~" />
 
 </p>
